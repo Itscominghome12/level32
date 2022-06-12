@@ -111,3 +111,20 @@ text-align: left;
   transform-origin: left;
   transform: scaleX(1);
 }
+
+.column10 {
+    
+width: 5%;    
+float: left;    
+}
+
+.column11 {
+    
+width: 90%;    
+float: left; 
+margin-left: 240px;
+}
+
+
+
+
